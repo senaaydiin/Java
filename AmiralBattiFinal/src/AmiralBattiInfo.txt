@@ -1,0 +1,9 @@
+Sadi normal(1)
+Ayse normal(0)
+Mehmet easy(0)
+Ali hard(3)
+Veli normal(2)
+
+Fatma easy(1)
+
+sena easy(0)
